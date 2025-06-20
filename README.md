@@ -69,5 +69,14 @@ In addition to Power BI visualization, various **data preprocessing and explorat
 - **Python (pandas, numpy, seaborn, matplotlib)**: Data analysis and preprocessing
 - **Excel / CSV**: Initial data source formatting and imports
 
+![Screenshot 2025-06-20 094636](https://github.com/user-attachments/assets/0f388c50-634f-48f4-a078-11b05a28d79a)
+
+![Screenshot 2025-06-20 094656](https://github.com/user-attachments/assets/30fa5e00-dbc4-4ae1-81df-f1a5fef6d744)
+
+![Screenshot 2025-06-20 094708](https://github.com/user-attachments/assets/d161fcde-e5b6-4069-964c-5194357710ba)
+
+
+
+
 
 
